@@ -1,0 +1,3 @@
+Trashing accounts that you hate will cause our algorithm to show you more of those accounts, as it is keying off of your interactions.
+
+Basically saying if you love trashing that account, then you will probably also love trashing this account. Not actually wrong lol.
